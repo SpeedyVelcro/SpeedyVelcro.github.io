@@ -1,0 +1,151 @@
+html {
+	height:100%; /*Necessary for footer positioning*/
+}
+
+body {
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #181a1b;
+	color: #f5f5f5;
+	font-family: Verdana, Arial, sans-serif;
+	font-size:1.1em;
+	/*Following is necessary for footer positioning*/
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.main {
+	/*This setup is necessary for footer positioning*/
+	flex: 1 0 auto;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: -5px;
+}
+
+a {
+	color: #6f4fff;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.game-grid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.game-grid img {
+	max-width: 100%;
+	height: auto;
+}
+
+%button-gamesite {
+	background-color: #111111;
+	color: white;
+	border: none;
+	padding: 16px 16px;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+}
+
+%button-gamesite:hover {
+	text-decoration: none;
+}
+
+.button-newgrounds {
+	@extend %button-gamesite;
+	background-color: #e16e00;
+}
+
+.button-itch {
+	@extend %button-gamesite;
+	background-color: #be001e;
+}
+
+.button-gamejolt {
+	@extend %button-gamesite;
+	background-color: #14af14;
+}
+
+/* SITE HEADER */
+.site_header {
+	flex-shrink: 0;
+}
+
+.site-header__link:hover {
+	text-decoration: none;
+}
+
+.site-header__text__title {
+	position: relative;
+	padding-top: 50px;
+	font-size: 28px;
+	font-weight: bold;
+	color: #f5f5f5;
+	text-decoration: none;
+}
+
+.site-header__text__subtitle {
+	position: relative;
+	padding-top: 6px;
+	left: -1px;
+	font-size: 16px;
+	color: #aaaaaa;
+	text-decoration: none;
+	font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+}
+
+.site-header__logo {
+	float: left;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	margin-right: 12px;
+}
+
+.site-navigation {
+	flex-shrink: 0;
+	clear: left;
+	border-bottom: 1px solid #f5f5f5;
+	padding-bottom: 3px;
+}
+
+.site-navigation a {
+	font-size:22px;
+	color: #f5f5f5;
+	font-weight: bold;
+	padding-right: 20px;
+}
+
+.site-navigation a:hover {
+	text-decoration: none;
+}
+
+/*SITE FOOTER*/
+.site-footer {
+	flex-shrink: 0;
+	border-top: 1px solid #aaaaaa;
+}
+
+.site-footer p {
+	font-size: 16px;
+	text-align: center;
+	color: #aaaaaa;
+}
+
+.site-footer a {
+	color: #f5f5f5;
+}
+
+.site-footer a:hover {
+	color: #bbbbbb;
+	text-decoration: none;
+}

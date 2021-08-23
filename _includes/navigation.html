@@ -1,0 +1,16 @@
+<div class="site-header">
+	<a class="site-header__link" href="/">
+		<img class="site-header__logo"src="/assets/images/summoner-new-transp-256.png" alt="SwiftVector" style="width:128px;height:128px;">
+		<div class="site-header__text">
+			<div class="site-header__text__title">SwiftVector</div>
+			<div class="site-header__text__subtitle">Code and Music Emporium</div>
+		</div>
+	</a>
+</div>
+<nav class="site-navigation">
+	{% for item in site.data.navigation %}
+		<a href="{{ item.link }}">
+			{{ item.name }}
+		</a>
+	{% endfor %}
+</nav>
