@@ -1,0 +1,9 @@
+<div class="gallery-screenshot">
+	{% for path in include.image_paths %}
+		<a target="_blank" href="{{ path }}">
+			<img src="{{ path }}" alt="Screenshot">
+		</a>
+	{% else %}
+		<p>GALLERY HAS ZERO SCREENSHOTS</p>
+	{% endfor %}
+</div>

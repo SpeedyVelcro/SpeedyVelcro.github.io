@@ -47,6 +47,27 @@ a:hover {
 	height: auto;
 }
 
+.gallery-screenshot {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.gallery-screenshot img {
+	max-width: 256px;
+	height: auto;
+	border: 1px;
+	border-style: solid;
+	border-color: #444444;
+	margin: 3px;
+}
+
+.gallery-screenshot img:hover {
+	border-color: #777777;
+}
+
 %button-gamesite {
 	background-color: #111111;
 	color: white;
