@@ -21,12 +21,12 @@ The music "Medium Security: Hacking In" and "Medium Security: Detected" is licen
 Example attribution (This is advice only, please read the license):
 ```
 Music, "Medium Security: Hacking In", by SwiftVector
-Source: swiftvector.net{{ page.url }}
+Source: speedyvelcro.com{{ page.url }}
 Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ```
 ```
 Music, "Medium Security: Detected", by SwiftVector
-Source: swiftvector.net{{ page.url }}
+Source: speedyvelcro.com{{ page.url }}
 Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ```
 
