@@ -19,9 +19,9 @@ The music from the Squid Savings OST is licensed under a [Creative Commons Attri
 
 This license only applies to the audio and NOT the album cover, which uses a modified version of a sprite from a free [art kit](https://frecklebars.itch.io/gdsjam20-kit) by [frecklebars](https://freckleskies.neocities.org/home/). This art kit has no license so if you wanna be covered legally, you will have to use software like Musicbrainz Picard, easyTAG or musicbee to remove the cover art before you redistribute the mp3 or flac files.
 
-Example attribution (This is advice only, please read the license):
+Example attribution (This is a suggestion only, please read the license):
 ```
-Music, "SONG NAME" from the Squid Savings OST, by SwiftVector
+Music, "SONG NAME" from the Squid Savings OST, by SpeedyVelcro
 Source: {{ site.url }}{{ page.url }}
 Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ```

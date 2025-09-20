@@ -18,9 +18,9 @@ Medium Security is a two-part backing track for hollywood-style hacking scenes. 
 {% include cc-by-40-button.html %}
 The music "Medium Security: Hacking In" and "Medium Security: Detected" is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-Example attribution (This is advice only, please read the license):
+Example attribution (This is a suggestion only, please read the license):
 ```
-Music, "Medium Security: Hacking In", by SwiftVector
+Music, "Medium Security: Hacking In", by SpeedyVelcro
 Source: speedyvelcro.com{{ page.url }}
 Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ```

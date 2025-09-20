@@ -20,15 +20,15 @@ MIDI -
 {% include cc-by-40-button.html %}
 The music and album cover from the Advanced Invasion OST is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-Example attribution (This is advice only, please read the license):
+Example attribution (This is a suggestion only, please read the license):
 ```
-Music, "SONG NAME" from the Advanced Invasion OST, by SwiftVector
+Music, "SONG NAME" from the Advanced Invasion OST, by SpeedyVelcro
 Source: {{ site.url }}{{ page.url }}
 Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ```
 
 ## Mirrors
-- [itch.io](https://swiftvector.itch.io/advanced-invasion) (No looping version)
+- [itch.io](https://speedyvelcro.itch.io/advanced-invasion) (No looping version)
 - [Newgrounds](https://www.newgrounds.com/playlists/view/74e256df6331a00b81077c271e0aed81) (mp3 loop only)
 - [SoundCloud](https://soundcloud.com/swiftvector/sets/advanced-invasion-ost) (flac soundtrack only)
 - [Game Jolt](https://gamejolt.com/games/advanced-invasion/604867) (mp3 soundtrack only)

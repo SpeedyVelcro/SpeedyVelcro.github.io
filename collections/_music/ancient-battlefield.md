@@ -17,9 +17,9 @@ MIDI -
 {% include cc-by-40-button.html %}
 The music "Ancient Battlefield" is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-Example attribution (This is advice only, please read the license):
+Example attribution (This is a suggestion only, please read the license):
 ```
-Music, "Ancient Battlefield", by SwiftVector
+Music, "Ancient Battlefield", by SpeedyVelcro
 Source: {{ site.url }}{{ page.url }}
 Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ```
