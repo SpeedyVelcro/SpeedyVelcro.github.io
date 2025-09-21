@@ -97,6 +97,16 @@ a:hover {
 	background-color: #14af14;
 }
 
+.banner-88x31-grid {
+	width: 100%;
+	margin: 8px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 8px;
+}
+
 /* SITE HEADER */
 .site_header {
 	flex-shrink: 0;
