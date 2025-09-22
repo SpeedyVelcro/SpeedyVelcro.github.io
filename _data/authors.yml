@@ -1,6 +1,8 @@
 # Authors objects, primarily for jekyll-feed plugin
 SpeedyVelcro:
   name: SpeedyVelcro
+  # Most of this stuff other than name is broken for jekyll-feed
+  # See: https://github.com/jekyll/jekyll-feed/issues/299
   picture: /assets/images/summoner-new-red-128.png
   twitter: SpeedyVelcro
   url: https://speedyvelcro.com
