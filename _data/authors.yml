@@ -1,0 +1,6 @@
+# Authors objects, primarily for jekyll-feed plugin
+SpeedyVelcro:
+  name: SpeedyVelcro
+  picture: /assets/images/summoner-new-red-128.png
+  twitter: SpeedyVelcro
+  url: https://speedyvelcro.com

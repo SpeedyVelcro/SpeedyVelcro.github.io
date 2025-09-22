@@ -17,3 +17,8 @@ indent_size = 2
 [*.{css,scss}]
 indent_style = tab
 indent_size = 2
+
+# Chosen based on existing yaml files.
+[*.{yml,yaml}]
+indent_style = space
+indent_size = 2

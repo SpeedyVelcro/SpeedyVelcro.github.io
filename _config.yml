@@ -1,5 +1,11 @@
 url: https://speedyvelcro.com
 collections_dir: collections
+future: true # I don't have much reason not to display future posts
+
+excerpt_separator: <!--more-->
+
+plugins:
+  - jekyll-feed
 
 collections:
   music:
@@ -16,3 +22,11 @@ defaults:
     values:
       layout: "music"
       permalink: "/music/:title/"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog-post"
+      permalink: "/blog/:year/:month/:day/:title/"
+      # Author object is used for jekyll-feed plugin
+      author: SpeedyVelcro

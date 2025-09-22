@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<img src="{{ page.author.picture }}" alt="{{ page.author.picture }}'s avatar" class="blog-avatar"></img>
+<p>
+	<strong>Author: </strong> {{ page.author.name }}
+	<br>
+	<strong>Published: </strong> {{ page.date | date: "%C%y-%m-%d (%H:%M %Z)" }}
+</p>
+{{ content }}
