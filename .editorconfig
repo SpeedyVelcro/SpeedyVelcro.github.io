@@ -1,0 +1,19 @@
+root = true
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+
+# Chosen tabs to match previously committed html files. Indent size
+# of 2 because this is a common size for html.
+[*.html]
+indent_style = tab
+indent_size = 2
+
+# Chosen tabs to match previously committed css files. Indent size of
+# 2 because this is a common size for css.
+[*.{css,scss}]
+indent_style = tab
+indent_size = 2
