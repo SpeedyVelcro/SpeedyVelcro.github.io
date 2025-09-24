@@ -27,3 +27,8 @@ Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ## Mirrors
 - [Newgrounds](https://www.newgrounds.com/audio/listen/963622) (mp3 only)
 - [SoundCloud](https://soundcloud.com/swiftvector/melee-machine) (flac only)
+- [YouTube](https://www.youtube.com/watch?v=MsHqGEJIldU) (no download)
+
+## Youtube Video Source
+- [Background image source](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/melee-machine/melee-machine-background.xcf) (xcf, open in GIMP)
+- [Video source](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/melee-machine/melee-machine.kdenlive) (kdenlive, open in kdenlive)

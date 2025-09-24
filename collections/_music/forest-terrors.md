@@ -30,3 +30,8 @@ Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ## Mirrors
 - [Newgrounds](https://www.newgrounds.com/audio/listen/914294) (mp3 loop only)
 - [SoundCloud](https://soundcloud.com/swiftvector/forest-terrors) (flac normal version only)
+- [YouTube](https://www.youtube.com/watch?v=ERgQpPIVoQY) (no download)
+
+## YouTube Video Source
+- [Background image source](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/forest-terrors/forest-terrors-background.xcf) (xcf, open in GIMP)
+- [Video source](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/forest-terrors/forest-terrors.kdenlive) (kdenlive, open in kdenlive)

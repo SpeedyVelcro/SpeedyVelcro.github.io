@@ -33,3 +33,8 @@ Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ## Mirrors
 - Newgrounds - [Hacking In](https://www.newgrounds.com/audio/listen/914288), [Detected](https://www.newgrounds.com/audio/listen/914289) (mp3 only)
 - SoundCloud - [Hacking In](https://soundcloud.com/swiftvector/medium-security-hacking-in), [Detected](https://soundcloud.com/swiftvector/medium-security-hacking-in) (flac only)
+- YouTube - [Hacking In](https://www.youtube.com/watch?v=JURoatKh7Y4), [Detected](https://www.youtube.com/watch?v=57b-N_3frGU) (no download)
+
+## YouTube video source
+- Background Image - [Hacking In](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/medium-security/medium-security-hacking-in-background.xcf), [Detected](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/medium-security/medium-security-detected.xcf) (xcf, open in GIMP)
+- Video Source - [Hacking In](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/medium-security/medium-security-hacking-in-background.kdenlive), [Detected](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/medium-security/medium-security-detected.kdenlive) (kdenlive, open in kdenlive)

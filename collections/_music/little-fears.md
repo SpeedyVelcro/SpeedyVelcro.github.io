@@ -25,3 +25,8 @@ Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ## Mirrors
 - [Newgrounds](https://www.newgrounds.com/audio/listen/964750) (mp3 only)
 - [SoundCloud](https://soundcloud.com/swiftvector/little-fears) (flac only)
+- [YouTube](https://www.youtube.com/watch?v=5dJ_EKMaR00) (no download)
+
+## YouTube Video Source
+- [Background Image source](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/little-fears/little-fears-background.xcf) (xcf, open in GIMP)
+- [Video source](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/little-fears/little-fears.kdenlive) (kdenlive, open in kdenlive)
