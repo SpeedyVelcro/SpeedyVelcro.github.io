@@ -16,7 +16,7 @@ their pages at [{{ site.url }}/music]({{ site.url }}/music) - CC BY 4.0
 of course - if you want to reproduce any of this).
 
 So basically the story starts with trying to put together a generic
-video splash screen for my music videos that are not but of some larger
+video splash screen for my music videos that are part but of some larger
 album. I wanted to keep it simple - none of this after effects
 malarkey - so I decided the splash screen would be created in GIMP and
 kdenlive would be used only for attaching the audio (tbf I could
