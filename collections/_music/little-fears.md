@@ -30,3 +30,7 @@ Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ## YouTube Video Source
 - [Background Image source](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/little-fears/little-fears-background.xcf) (xcf, open in GIMP)
 - [Video source](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/little-fears/little-fears.kdenlive) (kdenlive, open in kdenlive)
+
+The YouTube video and its source files are also licensed under
+(CC BY 4.0)[https://new.creativecommons.org/licenses/by/4.0/]
+

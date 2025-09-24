@@ -38,3 +38,7 @@ Licensed under CC BY 4.0 (https://new.creativecommons.org/licenses/by/4.0/)
 ## YouTube video source
 - Background Image - [Hacking In](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/medium-security/medium-security-hacking-in-background.xcf), [Detected](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/medium-security/medium-security-detected.xcf) (xcf, open in GIMP)
 - Video Source - [Hacking In](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/medium-security/medium-security-hacking-in-background.kdenlive), [Detected](https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/music/standalone/medium-security/medium-security-detected.kdenlive) (kdenlive, open in kdenlive)
+
+The YouTube video and its source files are also licensed under
+(CC BY 4.0)[https://new.creativecommons.org/licenses/by/4.0/]
+
