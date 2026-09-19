@@ -21,7 +21,7 @@ to really polish the game.
 So without further ado, I present the trailer for the Advanced Invasion 1.1
 update:
 
-<video controls width="1280" height="720">
+<video controls width="896" height="504">
     <source src="https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/videos/trailers/advanced-invasion/advanced-invasion-1.1-trailer-1080p.webm" type="video/webm">
     Your browser does not support playing this video. Please <a href="https://filedn.eu/lQjIWV7eYltL9DHQ8vi1lqp/videos/trailers/advanced-invasion/advanced-invasion-1.1-trailer-1080p.mp4">download it</a> instead.
 </video>
