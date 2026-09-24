@@ -2,7 +2,7 @@
 title: Squid Savings 1.2 Update
 date: 2026-09-24 21:50:00 +0100
 ---
-I've just released the 1.2 update for [Squid Savings](games/squid-savings)!
+I've just released the 1.2 update for [Squid Savings](/games/squid-savings)!
 It's more of a technical update, but it's an important one, so read on
 for the change notes.
 
