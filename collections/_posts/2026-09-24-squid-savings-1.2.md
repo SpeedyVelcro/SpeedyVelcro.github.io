@@ -8,6 +8,8 @@ for the change notes.
 
 <!--more-->
 
+![Screenshot of Squid Savings achievement menu](/assets/images/blog/2026-09-24-squid-savings-1.2/achievements-screenshot.png)
+
 This update backports my new achievement system - which debuted in
 Advanced Invasion - to Squid Savings. The main benefit is that
 achievements are now tracked locally, so in the event medals/trophies
