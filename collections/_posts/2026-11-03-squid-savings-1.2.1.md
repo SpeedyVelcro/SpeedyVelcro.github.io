@@ -10,7 +10,7 @@ read on for the change notes.
 
 <!--more-->
 
-![Screenshot of the Game Jolt login menu from Squid Savings](/assets/images/blog/2026-11-03-squid-savings-1.2.1)
+![Screenshot of the Game Jolt login menu from Squid Savings](/assets/images/blog/2026-11-03-squid-savings-1.2.1/game-jolt-login-screenshot.png)
 
 ## Change Notes
 This hotfix restores the Game Jolt login menu, which was accidentally
