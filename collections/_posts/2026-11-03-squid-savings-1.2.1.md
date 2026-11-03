@@ -24,10 +24,17 @@ itch.io.
 
 ## Edits
 An earlier version of this blog post which was only up for a few minutes had an
-incorrect time stamp copied from the CirclrRC 1.2 update blog post. I also
+incorrect time stamp copied from the CircleRC 1.2 update blog post. I also
 rewrote the first paragraph.
+
+In later edits I also fixed a link to an image and fixed a typo in the Edits
+addendum. Oh, and I updated the commit hashes to link to the specific file for
+this blog post in each commit. At this rate, the edits section is going to
+become larger than the blog post itself.
 
 You can find the source code of the old versions in the
 [git repo](https://github.com/SpeedyVelcro/SpeedyVelcro.github.io). Here are the
 commit hashes:
-- [a33d5e020b620b166d72b52edfd7f7bf637f2c03](https://github.com/SpeedyVelcro/SpeedyVelcro.github.io/commit/a33d5e020b620b166d72b52edfd7f7bf637f2c03)
+- [a33d5e020b620b166d72b52edfd7f7bf637f2c03](https://github.com/SpeedyVelcro/SpeedyVelcro.github.io/blob/a33d5e020b620b166d72b52edfd7f7bf637f2c03/collections/_posts/2026-11-03-squid-savings-1.2.1.md?plain=1)
+- [f9fe56a55422e136e82e99657162f04a894935b5](https://github.com/SpeedyVelcro/SpeedyVelcro.github.io/blob/f9fe56a55422e136e82e99657162f04a894935b5/collections/_posts/2026-11-03-squid-savings-1.2.1.md?plain=1)
+- [357cc0f8374e2bfd7df126047cb04d526989db73](https://github.com/SpeedyVelcro/SpeedyVelcro.github.io/blob/357cc0f8374e2bfd7df126047cb04d526989db73/collections/_posts/2026-11-03-squid-savings-1.2.1.md?plain=1)
